@@ -1,0 +1,21 @@
+{
+  "name": "@syedrazaalii06/adventure-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "adventure-game" : "add.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.11"
+  }
+}
