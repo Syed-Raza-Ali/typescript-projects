@@ -1,0 +1,24 @@
+{
+  "name": "@syedrazaalii06/my-bank-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "my-bank-oop": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@types/chalk-animation": "^1.6.2",
+    "@types/inquirer": "^9.0.6",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.11"
+  }
+}
